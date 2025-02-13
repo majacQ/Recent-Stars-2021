@@ -26,6 +26,7 @@
 [![LICENSE](https://img.shields.io/badge/license-Anti%20996-blue.svg?style=flat-square)](https://github.com/Vincentqyw/Recent-Stars-2020)
 ✔ This repo collects some links with papers which I recently starred related on SLAM, Pose/Object tracking, Depth/Disparity/Flow Estimation, 3D-graphic, etc.
 -->
+## Update: This repository is no longer actively maintained.
 
 近期写了一个自动获取Arxiv上有关SLAM/特征提取匹配/视觉定位等领域论文的小工具[**cv-arxiv-daily**](https://github.com/Vincentqyw/cv-arxiv-daily)，每日更新，欢迎大家关注。
 Recommend: A useful [tool](https://github.com/Vincentqyw/cv-arxiv-daily) to automatically update CV papers daily using github actions (Update Every day)

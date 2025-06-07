@@ -564,6 +564,10 @@ Recommend: A useful [tool](https://github.com/Vincentqyw/cv-arxiv-daily) to auto
 
 ❤ Please feel free to pull requests to add links.
 
+## Sponsorship
+
+[![Powered by DartNode](https://dartnode.com/branding/DN-Open-Source-sm.png)](https://dartnode.com "Powered by DartNode - Free VPS for Open Source")
+
 ## License
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
